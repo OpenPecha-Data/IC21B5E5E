@@ -1,0 +1,25 @@
+id: IC21B5E5E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:17:10.338188'
+last_modified: '2022-05-31T05:17:10.338213'
+parser: null
+source_metadata:
+  title: Minyak Kunzang Sönam Series
+  language: en
+  description: 'Texts by and about Minyak Kunzang Sönam (mi nyag kun bzang bsod nams,
+    1823–1905) alias Thubten Chökyi Drakpa (thub bstan chos kyi grags pa) :'
+  volume:
+    f8ECC:
+      title: Overview of the Bodhicaryāvatāra
+      base_file: f8ECC.txt
+      order: 1
+      parent: Bodhicaryāvatāra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
